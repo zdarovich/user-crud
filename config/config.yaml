@@ -1,0 +1,6 @@
+Log:
+  Level: "debug"
+HTTP:
+  Port: "8080"
+Database:
+  URL: "sqlite3://data.db"
